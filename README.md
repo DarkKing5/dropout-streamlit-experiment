@@ -36,7 +36,7 @@
 
 ### 1. Клонирование репозитория
 ```bash
-git clone <URL-вашего-репозитория>
+git clone 
 cd dropout-experiment
 ```
 
