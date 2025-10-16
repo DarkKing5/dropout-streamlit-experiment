@@ -1,0 +1,14 @@
+# Игнорируем виртуальное окружение
+.venv/
+venv/
+__pycache__/
+
+# Игнорируем скачанные данные
+data/
+
+# Файлы IDE (VS Code)
+.vscode/
+
+# Системные файлы macOS/Windows
+.DS_Store
+Thumbs.db
